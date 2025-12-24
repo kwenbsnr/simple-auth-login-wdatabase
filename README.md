@@ -26,7 +26,7 @@ It shows how to make a simple login system with PHP and MySQL using an **Alumni 
 1. **Download or clone the project**
 
    ```bash
-   git clone https://github.com/<your-username>/simple-auth-database-practice.git
+   git clone https://github.com/kwenbsnr/simple-auth-database-practice.git
    ```
 
 2. **Move the folder**
@@ -95,5 +95,3 @@ http://localhost/simple-auth-database-practice
 ---
 
 Feel free to fork, modify, and learn! 🎉
-
-```
